@@ -19,7 +19,7 @@ This repository contains code for predicting an output value using machine learn
 This project aims to make it easier to predict output values using various machine learning techniques. It provides functions for data preprocessing, model training, evaluation, and prediction. The code is designed to work with tabular datasets, making it versatile for different regression tasks.
 
 ## Author
-- Logan Nelson [(https://github.com/your-github-username)](https://github.com/loganbnelson)
+- Logan Nelson [(https://github.com/loganbnelson)](https://github.com/loganbnelson)
   - Email: logan.b.nelson@gmail.com
   - LinkedIn: [[Your LinkedIn Profile]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/logan-nelson-15884a38/))](https://www.linkedin.com/in/logan-nelson-15884a38/)
 
