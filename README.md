@@ -33,7 +33,7 @@ This project aims to make it easier to predict output values using various machi
 
 ### Installation
 You can install the required dependencies using pip:
-```bash
+```bash```
 pip install pandas scikit-learn matplotlib
 
 ### Usage
