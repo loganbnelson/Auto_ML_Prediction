@@ -21,7 +21,7 @@ This project aims to make it easier to predict output values using various machi
 ## Author
 - Logan Nelson [(https://github.com/loganbnelson)](https://github.com/loganbnelson)
   - Email: logan.b.nelson@gmail.com
-  - LinkedIn: [[Your LinkedIn Profile]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/logan-nelson-15884a38/))](https://www.linkedin.com/in/logan-nelson-15884a38/)
+  - LinkedIn: [[Logan's Profile]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/logan-nelson-15884a38/))](https://www.linkedin.com/in/logan-nelson-15884a38/)
 
 ## Getting Started
 ### Prerequisites
